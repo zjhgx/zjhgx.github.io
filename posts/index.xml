@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 老胡的日志</title>
+    <title>Posts on 火星来的吧</title>
     <link>https://www.hugaoxiang.com/posts/</link>
-    <description>Recent content in Posts on 老胡的日志</description>
+    <description>Recent content in Posts on 火星来的吧</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>&amp;copy; Copyright notice</copyright>
@@ -13,12 +13,12 @@
     
     
     <item>
-      <title>My First Post</title>
+      <title>为什么总害怕睡不好</title>
       <link>https://www.hugaoxiang.com/posts/my-first-post/</link>
       <pubDate>Mon, 27 Apr 2020 20:56:40 +0800</pubDate>
       
       <guid>https://www.hugaoxiang.com/posts/my-first-post/</guid>
-      <description>测试 </description>
+      <description> </description>
     </item>
     
   </channel>
