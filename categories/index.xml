@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 火星来的吧</title>
+    <title>Categories on Fly Hu</title>
     <link>https://www.hugaoxiang.com/categories/</link>
-    <description>Recent content in Categories on 火星来的吧</description>
+    <description>Recent content in Categories on Fly Hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Mon, 27 Apr 2020 20:56:40 +0800</lastBuildDate>
     
 	<atom:link href="https://www.hugaoxiang.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>thoughts</title>
+      <link>https://www.hugaoxiang.com/categories/thoughts/</link>
+      <pubDate>Mon, 27 Apr 2020 20:56:40 +0800</pubDate>
+      
+      <guid>https://www.hugaoxiang.com/categories/thoughts/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
