@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>poem on Fly Hu</title>
-    <link>https://www.hugaoxiang.com/categories/poem/</link>
+    <link>http://www.hugaoxiang.com/categories/poem/</link>
     <description>Recent content in poem on Fly Hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Fri, 05 Jun 2020 02:07:06 +0800</lastBuildDate>
     
-	<atom:link href="https://www.hugaoxiang.com/categories/poem/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.hugaoxiang.com/categories/poem/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>小诗一首</title>
-      <link>https://www.hugaoxiang.com/post/poem/%E5%B0%8F%E8%AF%97%E4%B8%80%E9%A6%96/</link>
+      <link>http://www.hugaoxiang.com/post/poem/%E5%B0%8F%E8%AF%97%E4%B8%80%E9%A6%96/</link>
       <pubDate>Fri, 05 Jun 2020 02:07:06 +0800</pubDate>
       
-      <guid>https://www.hugaoxiang.com/post/poem/%E5%B0%8F%E8%AF%97%E4%B8%80%E9%A6%96/</guid>
+      <guid>http://www.hugaoxiang.com/post/poem/%E5%B0%8F%E8%AF%97%E4%B8%80%E9%A6%96/</guid>
       <description>打开我的Mac呀 打开网易云音乐呀 打开120个tab页的Chrome呀 打开Pycharm,IDEA,Vscode 敲呀敲 ctrl c + ctrl v最快了 搜啊搜 音</description>
     </item>
     
